@@ -1,0 +1,11 @@
+Q1 which of the following is/are true about bubble sort
+Ans: 1. stable sort
+     2.it involves swapping of adjacent elemnets
+     3. 
+
+ Q2 What will the following array look lke after one iteration of bubble sort [1,6,2,5,4,3]  
+ Ans: [1,2,5,4,3,6]  
+
+ Q3  Case does bubble sort works in the most efficinet way 
+ Ans: When the array is nearly sorted 
+    
